@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "precio": 3000.00,
+    "nombre": "Carta TOTY",
+    "imagen": "../media/toty.jpeg"
+  },
+  {
+    "id": 2,
+    "precio": 2000.00,
+    "nombre": "Carta Tots",
+    "imagen": "../media/tots.jpeg"
+  },
+  {
+    "id": 3,
+    "precio": 4000.00,
+    "nombre": "Carta Icono",
+    "imagen": "../media/icono.jpeg"
+  },
+  {
+    "id": 4,
+    "precio": 1500.00,
+    "nombre": "Carta If",
+    "imagen": "../media/if.jpeg"
+  },
+  {
+    "id": 5,
+    "precio": 1000.00,
+    "nombre": "Carta Oro",
+    "imagen": "../media/oro.jpeg"
+  },
+  {
+    "id": 6,
+    "precio": 2500.00,
+    "nombre": "Carta Future Stars",
+    "imagen": "../media/promesa.jpeg"
+  },
+  {
+    "id": 7,
+    "precio": 2100.00,
+    "nombre": "Carta Headliners",
+    "imagen": "../media/headliners.jpeg"
+  },
+  {
+    "id": 8,
+    "precio": 2500.00,
+    "nombre": "Carta Captains",
+    "imagen": "../media/captains.jpeg"
+  },
+  {
+    "id": 9,
+    "precio": 2300.00,
+    "nombre": "Cartas Heroes",
+    "imagen": "../media/heroes.jpeg"
+  },
+  {
+    "id": 10,
+    "precio": 2800.00,
+    "nombre": "Carta RuleBreakers",
+    "imagen": "../media/rulebreakers.jpeg"
+  }
+]
